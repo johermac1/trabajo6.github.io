@@ -1,0 +1,64 @@
+
+ul {
+  display: flex;
+  flex-direction: row;
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  margin-right: 10px;
+}
+
+
+
+.mi-footer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #1a05bf;
+  padding: 10px;
+}
+
+header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #6107c18e;
+  color: white;
+}
+
+h1 {
+  margin: 0;
+  font-size: 2rem;
+  padding: 20px;
+}
+
+section {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin-top: 20px;
+}
+
+figure {
+  margin: 0;
+  padding: 0;
+  margin-bottom: 20px;
+}
+
+figcaption {
+  text-align: center;
+  margin-top: 5px;
+}
+
+.centro {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  margin: 0;
+}
+
