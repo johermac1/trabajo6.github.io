@@ -53,7 +53,7 @@ figcaption {
   margin-top: 5px;
 }
 
-body {
+.centro {
   display: flex;
   flex-direction: column;
   justify-content: center;
